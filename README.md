@@ -12,7 +12,7 @@ Les applications de cette notion sont nombreuses, notamment en géométrie fract
 probabilités. Parmi les exemples d’applications, on peut citer l’étude de la rugosité des surfaces, la modélisation de la
 croissance de cristaux, la prédiction de la formation de fissures dans les matériaux, la classification d’objets dans les images 
 numériques et l'étude des propriétés de convergence des distributions de probabilité.
-- - -
+
 # Hausdorff measurement and applications
 The s-dimensional Hausdorff measure in d-dimensional Euclidean space is an important concept in mathematics, 
 particularly in geometric measure theory and differential geometry (notably to define the notion of volume 
