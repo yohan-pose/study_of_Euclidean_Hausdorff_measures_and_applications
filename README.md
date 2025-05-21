@@ -1,5 +1,6 @@
 # Mesure de Hausdorff et applications
 *Licence 3 - Mathématiques Générales et Applications, Projet de recherche (MAT3120L), Université Claude Bernard Lyon 1*
+
 La mesure de Hausdorff s-dimensionnel dans l'espace euclidien de dimension d est une notion importante en mathématiques, 
 notamment en théorie géométrique de la mesure et en géométrie différentielle (notamment pour définir la notion de volume 
 d'une variété différentielle ou intégré sur une variété). 
